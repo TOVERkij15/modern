@@ -13,7 +13,7 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  font: 16px 'MuseoSlab500Regular', arial, helvetica, sans-serif;
+  font-family: 16px 'MuseoSlab500Regular', arial, helvetica, sans-serif;
 
 }
 
@@ -38,7 +38,7 @@ h1 {
     line-height: 0.8em;
     color: white;
     text-align: center;
-    text-shadow:2px 2px #ff0000;
+    text-shadow: 2px 2px #ff0000;
 }
 
 h2 {
@@ -51,7 +51,7 @@ h2 {
 
 img {
     height: 50px;
-    width:50px;
+    width: 50px;
     margin-bottom: 100px;
 }
 
@@ -63,19 +63,19 @@ nav {
     background: white;
     height: 100px;
     width: 100%;
-    margin-top:0;
+    margin-top: 0;
 
     h1 {
-        color:black;
+        color: black;
     }
 
     
     ul {
-        margin:0;
+        margin: 0;
     }
 
     img {
-        padding-top:20px;
+        padding-top: 20px;
     }
     
     li {
@@ -97,7 +97,7 @@ Main-container
 ******************************/
 
 .main-container {
-    background:white;
+    background: white;
     height: 500px;
 
     .col {
@@ -106,13 +106,13 @@ Main-container
         width: 300px;
         text-align: center;
         margin: 2%;
-        padding-left:30px;
+        padding-left: 30px;
 
     h1 {
         text-align: center;
-        color:black;
-        display:inline-block;
-        text-shadow:2px 2px /*#ff0000*/grey;
+        color: black;
+        display: inline-block;
+        text-shadow: 2px 2px /*#ff0000*/grey;
         
         }
     }    
